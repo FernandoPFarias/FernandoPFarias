@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Desenvolvedor de jogos, Game Designer e Desenvolvedor Back-End.</h4>
+<h4 align="left">Desenvolvedor de jogos e Game Designer.</h4>
 
 ###
 
