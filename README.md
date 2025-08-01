@@ -48,6 +48,13 @@
 
 ###
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FernandoPFarias&show_icons=true&count_private=true&rank_icon=github&locale=pt-BR&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&border_color=ff0000)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPFarias&layout=compact&langs_count=8&locale=pt-BR&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadu-ventura/cadu-ventura/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadu-ventura/cadu-ventura/output/github-contribution-grid-snake.svg">
