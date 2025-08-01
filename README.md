@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
 </div>
 
-###]
+###
 
 <table>
   <tr>
