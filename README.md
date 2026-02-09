@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Cursando Jogos Digitais<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de desenvolvedores.</p>
+<p align="left">🎓 Formado em Jogos Digitais<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de desenvolvedores.</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fernandopfarias/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="LinkedIn logo" /></a>
