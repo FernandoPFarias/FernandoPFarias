@@ -41,9 +41,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=FernandoPFarias&show_icons=true&count_private=true&rank_icon=github&locale=pt-BR&title_color=7B3FBF&text_color=ffffff&icon_color=9400D3&bg_color=000000&border_color=7B3FBF" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPFarias&layout=compact&langs_count=8&locale=pt-BR&title_color=7B3FBF&text_color=ffffff&bg_color=000000&border_color=7B3FBF" height="180" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/?username=FernandoPFarias&show_icons=true&count_private=true&rank_icon=github&locale=pt-BR&title_color=7B3FBF&text_color=ffffff&icon_color=9400D3&bg_color=000000&border_color=7B3FBF" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoPFarias&layout=compact&langs_count=8&locale=pt-BR&title_color=7B3FBF&text_color=ffffff&bg_color=000000&border_color=7B3FBF" height="180" alt="Top Languages" />
 
 ###
 
